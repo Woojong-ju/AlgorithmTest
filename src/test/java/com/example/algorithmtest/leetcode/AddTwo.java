@@ -1,4 +1,4 @@
-package com.example.algorithmtest.addtwo;
+package com.example.algorithmtest.leetcode;
 
 import org.junit.jupiter.api.Test;
 
